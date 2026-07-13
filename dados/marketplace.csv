@@ -1,0 +1,546 @@
+sku,marketplace,status_anuncio,tipo_logistica,motivo_inativo,preco
+SKU-00229,Shopee,Revisão,Cross Docking,,2487.73
+SKU-00133,Mercado Livre,Ativo,SPX,,745.64
+SKU-00110,Shopee,Inativo,Própria,dimensão incompatível,2937.37
+SKU-00005,Magalu,Pausado,Cross Docking,,2711.12
+SKU-00130,Americanas,Pausado,SPX,,4352.1
+SKU-00217,Magalu,Pausado,Cross Docking,,993.67
+SKU-00267,Americanas,Ativo,Full,,2309.14
+SKU-00192,Americanas,Inativo,Cross Docking,dimensão incompatível,3084.59
+SKU-00173,Amazon,Inativo,Drop,dimensão incompatível,2957.7
+SKU-FANTASMA-5895,Shopee,Ativo,Própria,,4050.1
+SKU-00207,Amazon,Inativo,Própria,pendência fiscal,2245.72
+SKU-00215,Magalu,Ativo,Full,,3190.69
+SKU-00098,Amazon,Inativo,SPX,divergência de estoque,2877.84
+SKU-00184,Americanas,Ativo,Full,,2964.4
+SKU-00151,Mercado Livre,Ativo,Própria,,3267.46
+SKU-00094,Amazon,Inativo,SPX,peso incompatível,3352.78
+SKU-00170,Amazon,Ativo,SPX,,3832.69
+SKU-00299,Americanas,Revisão,Full,,4004.08
+SKU-00196,Americanas,Ativo,Full,,1.09
+SKU-00103,Amazon,Ativo,Cross Docking,,4081.19
+SKU-00162,Shope,Inativo,Cross Docking,pendência fiscal,4440.08
+SKU-00030,Mercado Livre,Ativo,SPX,,3484.34
+SKU-00082,Magalu,Inativo,Própria,categoria inválida,2770.94
+SKU-00207,Magalu,Revisão,SPX,,184.2
+SKU-00192,Mercado Livre,Pausado,Própria,,2396.69
+SKU-00003,Shopee,Ativo,Drop,,1414.73
+SKU-00258,Americanas,Ativo,Full,,220.05
+SKU-FANTASMA-8469,Americanas,Inativo,SPX,,3095.21
+SKU-00251,Amazon,Inativo,Full,,4133.15
+SKU-00117,Shopee,Inativo,Full,campo obrigatório faltando,113.28
+SKU-00064,Amazon,Inativo,Própria,marca não autorizada,3946.3
+SKU-00274,Americanas,Ativo,Drop,,2983.94
+SKU-00011,Mercado Livre,Inativo,SPX,marca não autorizada,569.32
+SKU-00079,Shopee,Inativo,Cross Docking,,1902.61
+SKU-00267,Amazon,Inativo,Própria,marca não autorizada,3740.48
+SKU-00061,Amazon,Ativo,Full,,905.93
+SKU-00135,Americanas,Revisão,SPX,,1852.76
+SKU-00281,Magalu,Pausado,Própria,,2170.78
+SKU-00007,Mercado Livre,Pausado,Própria,,3015.56
+SKU-00047,Americanas,Ativo,Própria,,0.0
+SKU-00234,Amazon,Ativo,Full,,3662.11
+SKU-00149,Amazon,Pausado,SPX,,3327.35
+SKU-00024,mercado livre,Pausado,Própria,,779.75
+SKU-00225,Americanas,Ativo,Própria,,1686.21
+SKU-00059,Magalu,Ativo,Cross Docking,,3763.15
+SKU-00245,Magalu,Inativo,Própria,erro de integração,609.31
+SKU-00082,Mercado Livre,Ativo,Cross Docking,,3613.16
+SKU-00093,Americanas,Ativo,SPX,,144.24
+SKU-00067,Magalu,Revisão,Full,,1859.61
+SKU-00134,Amazon,Ativo,Drop,,2368.81
+SKU-00290,Shopee,Revisão,Própria,,1532.28
+SKU-00049,Magalu,Inativo,SPX,preço abaixo do mínimo,2991.74
+SKU-00077,Americanas,Pausado,Cross Docking,,67.23
+SKU-FANTASMA-9283,Magalu,Pausado,Drop,,350.77
+SKU-00124,Amazon,Revisão,Full,,1013.84
+SKU-00207,Shopee,Ativo,SPX,,2585.06
+SKU-00256,Magalu,,Drop,,3357.4
+SKU-00207,Magalu,,Cross Docking,,3719.2
+SKU-00156,Americanas,Inativo,Própria,imagem inadequada,4277.34
+SKU-00028,Shope,Pausado,SPX,,3456.86
+SKU-00187,Magalu,Ativo,Própria,,1009.54
+SKU-00150,Americanas,Ativo,Própria,,220.31
+SKU-00072,Magalu,Ativo,Cross Docking,,856.13
+SKU-FANTASMA-7437,Shopee,,Própria,,3229.79
+SKU-00213,Mercado Livre,Revisão,Própria,,2655.82
+SKU-00231,Magalu,Inativo,Drop,categoria inválida,4337.89
+SKU-00025,Americanas,Revisão,Própria,,2180.95
+SKU-00091,Americanas,Ativo,Própria,,479.44
+SKU-00165,Americanas,Pausado,SPX,,2746.34
+SKU-00128,Amazon,Ativo,,,1334.37
+SKU-00071,Magalu,Inativo,Drop,divergência de estoque,1355.63
+SKU-00161,Americanas,Inativo,SPX,bloqueio manual,3219.01
+SKU-00068,Shopee,Ativo,Própria,,1460.88
+SKU-00181,Americanas,Ativo,Cross Docking,,3007.2
+SKU-00274,Amazon,Pausado,SPX,,72.28
+SKU-00196,Shopee,Ativo,Full,,1212.4
+SKU-00147,Amazon,Ativo,Full,,3532.84
+SKU-00278,Mercado Livre,Ativo,Cross Docking,,1.13
+SKU-00288,Shopee,Inativo,Cross Docking,peso incompatível,2306.49
+SKU-00148,Mercado Livre,Revisão,SPX,,4305.81
+SKU-FANTASMA-6122,Americanas,Ativo,Própria,,925.85
+SKU-00227,Shopee,Pausado,Própria,,2919.63
+SKU-00280,Americanas,Ativo,Própria,,882.84
+SKU-00039,Shopee,Revisão,Própria,,550.3
+SKU-00143,Americanas,Ativo,Full,,3809.37
+SKU-00239,Shopee,Ativo,Drop,,2692.01
+SKU-00155,Magalu,Inativo,Cross Docking,erro de integração,3531.38
+SKU-00113,Shopee,Ativo,Própria,,729.78
+SKU-00207,Mercado Livre,Ativo,Drop,,2990.06
+SKU-00151,Shopee,Revisão,Cross Docking,,2144.73
+SKU-00005,Mercado Livre,Inativo,SPX,,2895.56
+SKU-FANTASMA-4994,Mercado Livre,Inativo,SPX,,3585.99
+SKU-00132,Americanas,Inativo,Full,divergência de estoque,3702.16
+SKU-00261,Magalu,Ativo,SPX,,2937.1
+SKU-00043,Mercado Livre,Ativo,Drop,,2427.82
+SKU-00034,Shopee,Inativo,Própria,,3089.04
+SKU-00106,Americanas,Pausado,Drop,,3340.07
+SKU-00037,Shopee,Ativo,Própria,,184.92
+SKU-00092,Amazon,Inativo,Cross Docking,peso incompatível,4100.77
+SKU-00231,Magalu,Ativo,Full,,3034.74
+SKU-00033,Americanas,Ativo,Própria,,1619.29
+SKU-00149,Amazon,Inativo,SPX,,1977.98
+SKU-00016,Magalu,Ativo,SPX,,0.0
+SKU-00280,Amazon,Revisão,Full,,3052.64
+SKU-FANTASMA-7113,Mercado Livre,Inativo,Cross Docking,erro de integração,202.35
+SKU-00202,Americanas,Ativo,Full,,957.09
+SKU-00177,Shopee,Ativo,Cross Docking,,2313.8
+SKU-00114,Americanas,Pausado,Full,,828.39
+SKU-00028,Americanas,Ativo,Cross Docking,,1318.58
+SKU-00051,Shopee,,Cross Docking,preço abaixo do mínimo,1616.77
+SKU-00121,Mercado Livre,Ativo,Full,,0.02
+SKU-00169,Americanas,Inativo,Própria,categoria inválida,2551.5
+SKU-00162,Magalu,Ativo,SPX,,3538.69
+SKU-00224,Amazon,Pausado,Full,,3302.38
+SKU-00237,Magalu,Ativo,SPX,,2489.25
+SKU-00042,Amazon,Pausado,Full,,2430.7
+SKU-00040,Mercado Livre,,Própria,,2847.84
+SKU-00297,Magalu,Inativo,SPX,sem estoque,2488.9
+SKU-00277,Magalu,Inativo,Full,marca não autorizada,1016.53
+SKU-00149,Shopee,Ativo,Cross Docking,,1794.58
+SKU-00123,Americanas,Inativo,Própria,categoria inválida,2016.3
+SKU-00290,Shopee,Inativo,Cross Docking,preço abaixo do mínimo,196.28
+SKU-00119,Mercado Livre,Ativo,SPX,,3013.61
+SKU-00185,Magalu,Ativo,Cross Docking,,223.27
+SKU-FANTASMA-6309,Mercado Livre,Inativo,Cross Docking,,1241.63
+SKU-00297,Americanas,Inativo,SPX,marca não autorizada,1653.36
+SKU-00040,Americanas,Ativo,Drop,,1014.7
+SKU-00177,Magalu,Inativo,Drop,sem estoque,2265.74
+SKU-00085,Shopee,Ativo,Cross Docking,,963.65
+SKU-00186,Americanas,Inativo,Full,peso incompatível,1874.54
+SKU-00059,Magalu,Inativo,Cross Docking,bloqueio manual,738.19
+SKU-00012,Shopee,Ativo,Cross Docking,,737.66
+SKU-00021,Americanas,Ativo,Full,,4152.17
+SKU-00208,Americanas,Revisão,Cross Docking,,3955.11
+SKU-00146,Mercado Livre,Ativo,Cross Docking,,2129.29
+SKU-00113,Magalu,Inativo,Própria,,3457.19
+SKU-00262,Amazon,Ativo,Própria,,4151.75
+SKU-00036,Shopee,Ativo,Full,,89.28
+SKU-00259,Magalu,Pausado,Cross Docking,,810.74
+SKU-FANTASMA-1639,Americanas,Ativo,Full,,2177.85
+SKU-00277,Mercado Livre,Pausado,Própria,,2926.8
+SKU-00190,Mercado Livre,Inativo,SPX,,2177.32
+SKU-00180,Americanas,Pausado,Drop,,3769.8
+SKU-00218,Shopee,Ativo,Própria,,4096.73
+SKU-00279,Magalu,Ativo,Full,,3350.25
+SKU-00268,mercado livre,Ativo,SPX,,936.3
+SKU-00210,Amazon,Ativo,SPX,,2640.39
+SKU-00275,Magalu,Inativo,,pendência fiscal,1797.58
+SKU-00283,Americanas,Ativo,SPX,,2503.78
+SKU-00158,Americanas,Ativo,Própria,,3314.98
+SKU-00061,Shopee,Ativo,Própria,,740.65
+SKU-00206,Amazon,Pausado,Cross Docking,,3085.27
+SKU-00200,Mercado Livre,Pausado,Própria,,2130.43
+SKU-00046,Mercado Livre,Ativo,SPX,,2746.49
+SKU-00206,Americanas,Inativo,SPX,bloqueio manual,272.72
+SKU-00090,Magalu,Ativo,SPX,,2961.13
+SKU-00147,Shopee,Ativo,Cross Docking,,2328.42
+SKU-00087,Mercado Livre,Ativo,Própria,,0.0
+SKU-00142,Magalu,Ativo,SPX,,2643.57
+SKU-00036,mercado livre,Ativo,Própria,,2522.63
+SKU-00178,Amazon,,Drop,,2054.59
+SKU-00003,Amazon,Ativo,Cross Docking,,2520.46
+SKU-00175,Mercado Livre,Pausado,Drop,,3944.37
+SKU-00295,Amazon,Inativo,Drop,,2184.08
+SKU-00174,Magalu,Inativo,Drop,,137.67
+SKU-00035,Magalu,Inativo,Drop,pendência fiscal,3159.77
+SKU-00212,Amazon,Ativo,Full,,3747.31
+SKU-00048,Magazine,Inativo,Própria,,2502.16
+SKU-00161,Amazon,Ativo,Cross Docking,,834.79
+SKU-00098,Magalu,Inativo,SPX,peso incompatível,3929.25
+SKU-00104,Shopee,Pausado,SPX,,3508.54
+SKU-00041,Magalu,Inativo,Própria,divergência de estoque,4311.6
+SKU-00191,Americanas,Ativo,Drop,,3966.23
+SKU-00141,Magalu,Ativo,Própria,,0.0
+SKU-00296,Shopee,Ativo,Própria,,2160.27
+SKU-00258,Amazon,Ativo,Própria,,798.98
+SKU-FANTASMA-9490,Magalu,Ativo,Full,,3038.35
+SKU-00052,Amazon,Ativo,Drop,,854.38
+SKU-00138,Magalu,Revisão,SPX,,839.85
+SKU-00215,Amazon,Ativo,SPX,,2036.52
+SKU-00295,Shopee,Pausado,Própria,,3621.33
+SKU-00196,Shopee,Ativo,Drop,,685.72
+SKU-00091,Magalu,Ativo,Drop,,3824.51
+SKU-00162,Magalu,Ativo,Cross Docking,,2561.74
+SKU-00084,Mercado Livre,Ativo,,,3777.79
+SKU-00172,Amazon,Ativo,Cross Docking,,4194.32
+SKU-00011,Magalu,Ativo,Drop,,4334.58
+SKU-00295,Americanas,Ativo,Própria,,0.0
+SKU-00250,Magalu,Pausado,SPX,,1300.06
+SKU-00075,Shopee,Inativo,Drop,marca não autorizada,2846.26
+SKU-00037,Mercado Livre,Ativo,SPX,,1436.2
+SKU-00137,Americanas,Inativo,SPX,imagem inadequada,3517.67
+SKU-FANTASMA-9535,Magalu,Ativo,Full,,118.61
+SKU-00129,Mercado Livre,Ativo,SPX,,443.56
+SKU-FANTASMA-8752,Americanas,Ativo,Própria,,2365.06
+SKU-FANTASMA-2702,Amazon,Inativo,Full,,3986.34
+SKU-00127,Amazon,Ativo,Full,,2377.44
+SKU-00018,Amazon.com,Pausado,SPX,,2150.55
+SKU-FANTASMA-9856,Amazon,Ativo,Full,,4268.96
+SKU-00234,Americanas,Ativo,Cross Docking,,2409.02
+SKU-FANTASMA-8891,Americanas,Ativo,Full,,0.0
+SKU-00080,Amazon,Ativo,Cross Docking,,3415.95
+SKU-00147,Magalu,Ativo,Própria,,2221.31
+SKU-00154,Mercado Livre,Inativo,Própria,,1052.0
+SKU-00192,Shopee,Ativo,Cross Docking,,1785.46
+SKU-00200,Magalu,Ativo,Full,,2819.57
+SKU-00140,Amazon,Inativo,Cross Docking,dimensão incompatível,1866.87
+SKU-00094,Shopee,Ativo,Cross Docking,,2785.52
+SKU-00252,Shopee,,Full,,4364.18
+SKU-00053,Amazon,Ativo,Própria,,3276.08
+SKU-00078,Mercado Livre,Ativo,SPX,,1412.42
+SKU-00191,Magalu,Inativo,Full,,3798.31
+SKU-FANTASMA-1918,Amazon,Inativo,Full,imagem inadequada,829.49
+SKU-00129,Magalu,Pausado,Full,,3460.13
+SKU-00227,Shopee,Inativo,Full,imagem inadequada,3312.92
+SKU-00107,Magalu,Ativo,Drop,,1.38
+SKU-00022,Americanas,Ativo,SPX,,2878.76
+SKU-00027,Shopee,Revisão,SPX,,1962.22
+SKU-00142,Americanas,Ativo,Própria,,55.05
+SKU-00244,Americanas,Ativo,Própria,,1130.52
+SKU-00174,Mercado Livre,Ativo,Cross Docking,,3160.46
+SKU-00065,Magalu,Ativo,Drop,,3551.7
+SKU-00225,Shopee,Ativo,SPX,,3263.93
+SKU-00021,Magalu,Inativo,Cross Docking,divergência de estoque,3141.21
+SKU-00096,Americanas,Ativo,Própria,,1249.83
+SKU-00284,Shopee,Ativo,Full,,1341.09
+SKU-00188,Magalu,Ativo,Cross Docking,,1715.01
+SKU-00010,Americanas,Pausado,Própria,,1085.96
+SKU-00276,Magalu,Ativo,Própria,,3449.32
+SKU-00145,Amazon,Ativo,SPX,,446.71
+SKU-00023,Shopee,Ativo,Full,,1.45
+SKU-00017,Americanas,Inativo,SPX,,2373.31
+SKU-00132,Mercado Livre,Ativo,Cross Docking,,332.87
+SKU-FANTASMA-4419,Magazine Luiza,Revisão,Própria,,2114.25
+SKU-00185,Americanas,Inativo,Drop,,1670.27
+SKU-00137,Americanas,Ativo,Full,,1378.01
+SKU-FANTASMA-9511,Mercado Livre,Ativo,SPX,,1743.21
+SKU-00128,Americanas,Inativo,Full,campo obrigatório faltando,2518.27
+SKU-00296,Amazon,,Própria,marca não autorizada,3974.47
+SKU-00093,Americanas,Ativo,SPX,,724.42
+SKU-FANTASMA-8258,Amazon,Pausado,Cross Docking,,4485.87
+SKU-00212,Magalu,Pausado,SPX,,1094.64
+SKU-00193,Americanas,Revisão,SPX,,4328.01
+SKU-00204,Mercado Livre,Inativo,Drop,bloqueio manual,88.12
+SKU-00155,Mercado Livre,Ativo,SPX,,3852.91
+SKU-00142,Americanas,Ativo,Cross Docking,,2578.68
+SKU-00236,Amazon,Ativo,SPX,,4004.97
+SKU-00132,Amazon,Ativo,SPX,,4131.7
+SKU-00167,Magalu,Ativo,Própria,,3107.83
+SKU-00049,Americanas,Inativo,Full,,2599.63
+SKU-00029,Amazon,Ativo,Própria,,1883.1
+SKU-00117,Americanas,Revisão,Cross Docking,,2850.39
+SKU-00269,Mercado Live,Ativo,Cross Docking,,1480.84
+SKU-00079,Mercado Livre,Inativo,,imagem inadequada,3391.49
+SKU-00047,Shopee,Ativo,Própria,,678.84
+SKU-00244,Americanas,Inativo,Cross Docking,dimensão incompatível,396.58
+SKU-00067,Shopee,Ativo,Full,,1788.0
+SKU-00288,Americanas,Revisão,Cross Docking,,1101.78
+SKU-00221,Amazon,Inativo,Cross Docking,erro de integração,3027.79
+SKU-00179,Shopee,Ativo,Cross Docking,,123.57
+SKU-00180,Americanas,Pausado,Própria,,2809.97
+SKU-00120,Shopee,Inativo,Full,campo obrigatório faltando,3839.65
+SKU-00028,Shopee,Revisão,Drop,,3911.35
+SKU-00008,Amazon,,Full,imagem inadequada,2128.29
+SKU-00276,Shopee,Ativo,Cross Docking,,1175.08
+SKU-00073,Mercado Livre,Ativo,Drop,,2377.69
+SKU-00031,Amazon,Ativo,,,1231.7
+SKU-00005,Mercado Livre,Ativo,SPX,,3836.59
+SKU-00056,Mercado Livre,Ativo,Drop,,0.0
+SKU-FANTASMA-9331,Mercado Livre,Pausado,Cross Docking,,2693.02
+SKU-00102,Americanas,Revisão,Cross Docking,,3210.42
+SKU-00272,Amazon,Ativo,SPX,,719.17
+SKU-00181,Amazon,Inativo,SPX,divergência de estoque,1252.31
+SKU-00132,Magalu,Pausado,Própria,,147.15
+SKU-00144,Shopee,Ativo,Drop,,2961.34
+SKU-00196,Americanas,Revisão,Cross Docking,,2820.48
+SKU-00124,Americanas,Ativo,Drop,,4095.16
+SKU-00278,Shopee,Ativo,Full,,2442.97
+SKU-00071,Amazon,Inativo,Drop,,621.61
+SKU-FANTASMA-3378,Americanas,Pausado,SPX,,2514.67
+SKU-FANTASMA-2939,Shopee,Ativo,Drop,,3275.95
+SKU-00212,Magalu,Ativo,Própria,,3700.32
+SKU-00141,Shopee,Inativo,Full,categoria inválida,132.5
+SKU-FANTASMA-5372,Americanas,Inativo,SPX,peso incompatível,1050.64
+SKU-00041,Magalu,Ativo,Própria,,2117.4
+SKU-00095,Magalu,Ativo,,,881.77
+SKU-00008,Amazon,Revisão,SPX,,3025.96
+SKU-00105,Mercado Livre,Ativo,Drop,,1985.19
+SKU-00167,Magalu,Pausado,SPX,,3496.32
+SKU-00195,Amazon,Ativo,Drop,,2580.13
+SKU-00020,Americanas,Ativo,Cross Docking,,3951.78
+SKU-00126,Americanas,Ativo,Drop,,191.04
+SKU-00026,Shopee,Ativo,SPX,,1380.93
+SKU-00237,Shopee,Ativo,Cross Docking,,259.64
+SKU-00073,Magalu,Pausado,Cross Docking,,3256.07
+SKU-00300,Americanas,Ativo,SPX,,2037.22
+SKU-00104,Magalu,Ativo,SPX,,2923.87
+SKU-00084,Mercado Livre,Ativo,Própria,,2858.81
+SKU-00197,Americanas,Inativo,Full,,1722.02
+SKU-00172,Americanas,Pausado,Drop,,742.13
+SKU-00027,Magalu,Ativo,Própria,,4324.93
+SKU-00093,Mercado Livre,Pausado,Drop,,30.85
+SKU-00007,Magalu,Ativo,Cross Docking,,3636.43
+SKU-00253,Shopee,Ativo,Própria,,2050.02
+SKU-00004,Shopee,Pausado,SPX,,2834.43
+SKU-00107,Mercado Livre,Ativo,Full,,1580.35
+SKU-00017,Americanas,Pausado,SPX,,4142.93
+SKU-00214,Shope,Ativo,SPX,,2979.25
+SKU-00294,Americanas,Ativo,Cross Docking,,2611.66
+SKU-FANTASMA-2525,Amazon,Ativo,Drop,,3693.89
+SKU-00282,Mercado Livre,Ativo,Full,,3130.37
+SKU-00270,Magalu,Ativo,Própria,,2760.06
+SKU-00271,Mercado Livre,Ativo,Própria,,4203.5
+SKU-FANTASMA-5705,Magalu,Inativo,SPX,divergência de estoque,2594.51
+SKU-00067,Americanas,Inativo,Cross Docking,pendência fiscal,2247.37
+SKU-00120,Amazon,Revisão,Full,,122.58
+SKU-00061,Shopee,Inativo,Drop,marca não autorizada,219.03
+SKU-00109,Mercado Livre,Inativo,Própria,dimensão incompatível,3559.03
+SKU-00260,Americanas,Ativo,Full,,3090.97
+SKU-00292,Americanas,Revisão,Própria,,885.16
+SKU-00246,Magalu,Inativo,Cross Docking,imagem inadequada,711.91
+SKU-00275,Amazon,Ativo,Própria,,4176.14
+SKU-00267,Amazon,Inativo,Própria,divergência de estoque,2418.45
+SKU-00170,Amazon,Ativo,Full,,3785.72
+SKU-00193,Americanas,Pausado,Cross Docking,,1762.2
+SKU-00158,Amazon,Inativo,SPX,erro de integração,2244.29
+SKU-00232,Amazon,Ativo,SPX,,518.36
+SKU-00104,Mercado Livre,Ativo,Full,,2179.74
+SKU-00098,Amazon,Revisão,Própria,,2363.47
+SKU-00074,Mercado Livre,Pausado,Drop,,3050.08
+SKU-00019,Magalu,Ativo,Drop,,534.52
+SKU-00023,Americanas,Pausado,SPX,,4003.0
+SKU-00160,Mercado Livre,Inativo,SPX,,956.16
+SKU-00147,Amazon,Ativo,Própria,,3024.99
+SKU-00081,Amazon,Ativo,Drop,,2524.92
+SKU-00278,Amazon,Ativo,SPX,,0.0
+SKU-00294,Shopee,Ativo,SPX,,0.0
+SKU-00026,Shopee,Ativo,Drop,,0.0
+SKU-00045,Magalu,Ativo,Própria,,4012.37
+SKU-00229,Americanas,Ativo,SPX,,903.69
+SKU-00274,Mercado Livre,Revisão,Própria,,2103.64
+SKU-00240,Mercado Livre,Ativo,Própria,,3200.32
+SKU-00119,Shopee,Ativo,Drop,,1172.37
+SKU-00094,Amazon,Inativo,Drop,imagem inadequada,2201.47
+SKU-00058,Amazon,Ativo,Própria,,1280.92
+SKU-00295,Shopee,Ativo,SPX,,3218.51
+SKU-00285,Mercado Livre,Inativo,Cross Docking,marca não autorizada,2663.55
+SKU-00125,Americanas,Ativo,Cross Docking,,311.28
+SKU-00221,Magalu,Inativo,SPX,,1074.15
+SKU-00040,Americanas,Pausado,Full,,2688.4
+SKU-00050,Magalu,Ativo,Drop,,327.19
+SKU-00195,Amazon,Ativo,Própria,,421.04
+SKU-00298,Mercado Livre,Inativo,Própria,imagem inadequada,2397.68
+SKU-00296,Magalu,Ativo,Própria,,1434.94
+SKU-00156,Magalu,Inativo,Drop,erro de integração,2628.53
+SKU-00262,Magalu,Pausado,Drop,,294.91
+SKU-FANTASMA-1870,Mercado Livre,Inativo,Própria,,507.0
+SKU-00016,Shopee,Ativo,Cross Docking,,2819.09
+SKU-00208,Magalu,Ativo,SPX,,792.74
+SKU-00285,Magalu,Pausado,SPX,,1886.3
+SKU-00065,Shopee,Ativo,,,660.82
+SKU-00224,Shopee,Ativo,Cross Docking,,1880.11
+SKU-00218,Americanas,Ativo,Cross Docking,,2490.94
+SKU-00182,Shopee,Ativo,Cross Docking,,2607.05
+SKU-00122,Americanas,Ativo,Drop,,2599.94
+SKU-00020,Americanas,Ativo,SPX,,2617.51
+SKU-FANTASMA-2311,Shopee,Inativo,Cross Docking,,4426.75
+SKU-00239,Americanas,Ativo,Drop,,411.68
+SKU-00040,Americanas,Inativo,SPX,sem estoque,4067.58
+SKU-00006,Magazine,Ativo,Drop,,2589.23
+SKU-00181,Amazon,Ativo,Full,,4154.05
+SKU-00289,Amazon,Ativo,Cross Docking,,773.32
+SKU-00150,Americanas,Ativo,Cross Docking,,583.79
+SKU-00143,Amazon,Ativo,SPX,,3862.49
+SKU-00058,Americanas,Ativo,Cross Docking,,692.84
+SKU-00090,Amazon,Inativo,SPX,categoria inválida,3600.18
+SKU-00176,ML,Revisão,Cross Docking,,3700.43
+SKU-00212,Magalu,Ativo,SPX,,2874.52
+SKU-00177,Mercado Livre,Inativo,Própria,erro de integração,250.57
+SKU-00244,Amazon,Ativo,Drop,,4152.23
+SKU-00200,Magalu,Ativo,Cross Docking,,1964.78
+SKU-00230,Magalu,Inativo,Drop,pendência fiscal,4302.08
+SKU-00273,Amazon,Revisão,SPX,,4132.42
+SKU-00172,Amazon,Ativo,Full,,2949.73
+SKU-00124,Americanas,Inativo,Cross Docking,pendência fiscal,3110.9
+SKU-00281,Mercado Livre,Inativo,Própria,sem estoque,1859.45
+SKU-00229,Amazon,Ativo,SPX,,880.96
+SKU-00048,Mercado Livre,Revisão,Própria,,3762.03
+SKU-FANTASMA-2995,Mercado Livre,Ativo,Cross Docking,,1701.17
+SKU-00290,Shopee,,Própria,,1151.21
+SKU-00039,Magalu,Revisão,,,1930.02
+SKU-FANTASMA-6298,Amazon,Ativo,Full,,3500.32
+SKU-00171,Mercado Livre,Ativo,Própria,,813.01
+SKU-00103,Americanas,Ativo,Cross Docking,,501.31
+SKU-00221,Shopee,Inativo,Full,imagem inadequada,3223.57
+SKU-00038,Mercado Livre,Inativo,SPX,imagem inadequada,99.16
+SKU-00001,Mercado Livre,Inativo,SPX,campo obrigatório faltando,1494.29
+SKU-00002,Americanas,Inativo,Própria,imagem inadequada,1970.72
+SKU-00036,Americanas,Ativo,SPX,,3106.34
+SKU-00063,Americanas,Ativo,Drop,,1510.48
+SKU-00029,Mercado Livre,Ativo,Drop,,1540.18
+SKU-00149,Shopee,Ativo,Full,,1737.97
+SKU-00200,Mercado Livre,Inativo,SPX,erro de integração,3985.19
+SKU-00098,Shopee,Ativo,Full,,4483.78
+SKU-00200,Mercado Livre,Inativo,Cross Docking,imagem inadequada,2409.72
+SKU-00231,Mercado Livre,Ativo,Full,,3548.19
+SKU-00061,Shopee,Pausado,Própria,,2070.79
+SKU-00275,Shopee,Inativo,SPX,erro de integração,180.4
+SKU-00010,Magalu,Pausado,Cross Docking,,1103.43
+SKU-00008,Shopee,Inativo,Drop,,3574.73
+SKU-00088,Americanas,Ativo,Própria,,527.1
+SKU-00113,Mercado Livre,Pausado,SPX,,3654.67
+SKU-FANTASMA-7586,Amazon,Ativo,Própria,,2463.29
+SKU-00110,Mercado Livre,Inativo,SPX,erro de integração,1243.41
+SKU-00087,Amazon,Inativo,SPX,,2625.21
+SKU-00193,Shopee,Ativo,Cross Docking,,43.48
+SKU-00046,Americanas,Pausado,SPX,,3636.24
+SKU-00065,Shopee,Ativo,SPX,,2035.13
+SKU-00090,Americanas,Inativo,Cross Docking,campo obrigatório faltando,2257.0
+SKU-FANTASMA-5934,Amazon,Ativo,Cross Docking,,875.68
+SKU-FANTASMA-2567,Americanas,Ativo,Própria,,2435.66
+SKU-00107,Amazon,Ativo,Full,,684.24
+SKU-00243,Magalu,Ativo,Própria,,208.37
+SKU-00146,Shopee,Ativo,SPX,,3626.11
+SKU-00023,Mercado Livre,Inativo,Drop,,723.83
+SKU-00264,Mercado Livre,Ativo,SPX,,2010.02
+SKU-00215,Shopee,Inativo,Drop,peso incompatível,3508.7
+SKU-00051,Shopee,Inativo,Drop,marca não autorizada,4012.77
+SKU-00300,Magalu,Ativo,SPX,,984.5
+SKU-00092,Magalu,Ativo,Cross Docking,,885.78
+SKU-00139,Shopee,Ativo,Full,,2565.47
+SKU-00057,Magalu,Ativo,Full,,1555.94
+SKU-00081,Americanas,Pausado,Cross Docking,,2494.11
+SKU-00211,Americanas,Ativo,Drop,,2668.24
+SKU-00143,Mercado Livre,Inativo,Própria,peso incompatível,1126.52
+SKU-00114,Americanas,Revisão,Drop,,4043.66
+SKU-00023,Mercado Livre,Revisão,Própria,,2276.41
+SKU-00202,Magalu,Pausado,Própria,,454.53
+SKU-00043,Americanas,Inativo,Própria,marca não autorizada,4275.45
+SKU-00152,Shopee,Inativo,Full,imagem inadequada,3015.62
+SKU-00236,Americanas,Inativo,Full,imagem inadequada,2094.97
+SKU-00208,Shopee,Inativo,SPX,imagem inadequada,3172.0
+SKU-00037,Magalu,Pausado,SPX,,161.72
+SKU-00139,Americanas,Ativo,Própria,,3547.8
+SKU-00172,Mercado Livre,Ativo,Drop,,1647.5
+SKU-00197,Amazon,Ativo,Full,,1658.45
+SKU-00035,Americanas,Inativo,SPX,preço abaixo do mínimo,1085.27
+SKU-00245,Americanas,Pausado,Própria,,3392.98
+SKU-00165,Amazon,Pausado,Cross Docking,,1911.84
+SKU-00191,Amazon,Ativo,Cross Docking,,3735.58
+SKU-00273,Americanas,Pausado,Cross Docking,,1666.13
+SKU-00034,Shopee,Pausado,Cross Docking,,374.56
+SKU-00148,Mercado Livre,Ativo,SPX,,3141.41
+SKU-00105,Americanas,Revisão,Full,,1883.17
+SKU-00068,Magalu,Ativo,SPX,,2906.41
+SKU-00033,Mercado Livre,Pausado,SPX,,4264.31
+SKU-00211,Americanas,Ativo,Cross Docking,,1478.48
+SKU-00272,Americanas,Ativo,SPX,,606.81
+SKU-00088,Amazon,Ativo,SPX,,1307.34
+SKU-00076,Amazon,Ativo,Drop,,2789.56
+SKU-00275,Amazon,Ativo,Full,,3190.88
+SKU-FANTASMA-3514,Shopee,Ativo,Full,,1435.07
+SKU-00134,Amazon,Ativo,Cross Docking,,170.58
+SKU-00177,Shopee,Ativo,Cross Docking,,744.25
+SKU-00013,Magalu,Revisão,Própria,,4265.83
+SKU-FANTASMA-3556,Mercado Livre,Revisão,Cross Docking,,2290.73
+SKU-00152,Magalu,Pausado,Drop,,3397.42
+SKU-FANTASMA-3409,Americanas,Inativo,Drop,preço abaixo do mínimo,3105.82
+SKU-00021,Shopee,Inativo,Full,sem estoque,1816.31
+SKU-00229,Amazon,Ativo,Full,,2891.29
+SKU-00114,Amazon,Ativo,Full,,3824.79
+SKU-00045,Americanas,Ativo,Cross Docking,,2720.23
+SKU-00029,Amazon,Ativo,Própria,,1932.97
+SKU-00007,Amazon,Ativo,SPX,,2013.41
+SKU-00111,Magalu,Inativo,SPX,imagem inadequada,1309.52
+SKU-00218,Magalu,Ativo,Cross Docking,,401.06
+SKU-00244,Americanas,Revisão,Full,,4321.03
+SKU-00046,Mercado Livre,Ativo,Drop,,1.08
+SKU-00291,Shopee,Ativo,Própria,,1313.24
+SKU-00155,Americanas,Ativo,Cross Docking,,0.27
+SKU-00002,Shopee,Ativo,Drop,,3756.58
+SKU-00148,Magalu,Ativo,Drop,,2906.86
+SKU-00142,Magalu,Revisão,Full,,3358.86
+SKU-00290,Magalu,Pausado,Cross Docking,,2150.04
+SKU-00062,Amazon,Ativo,Cross Docking,,3806.08
+SKU-00030,Shopee,Ativo,Drop,,622.71
+SKU-00140,Amazon,Ativo,Drop,,1611.59
+SKU-00272,Mercado Livre,Ativo,Própria,,836.87
+SKU-00086,Americanas,Ativo,SPX,,3804.8
+SKU-00139,Amazon,Ativo,Cross Docking,,3707.57
+SKU-00266,Amazon,Ativo,Cross Docking,,1541.3
+SKU-FANTASMA-2678,Shopee,Ativo,SPX,,860.05
+SKU-00270,Americanas,Inativo,Própria,,526.14
+SKU-00040,Mercado Livre,Pausado,Drop,,2165.64
+SKU-00186,Shopee,Pausado,Drop,,2695.45
+SKU-00176,Shopee,Inativo,Full,,546.91
+SKU-00073,Shopee,Ativo,SPX,,4415.28
+SKU-00058,Mercado Livre,Ativo,Cross Docking,,1.39
+SKU-00017,Americanas,Inativo,Cross Docking,,1149.76
+SKU-00006,Mercado Livre,Inativo,Drop,peso incompatível,2650.4
+SKU-00010,Magalu,Inativo,Full,sem estoque,1792.72
+SKU-00159,Mercado Livre,Inativo,Full,sem estoque,658.0
+SKU-00130,Americanas,Inativo,Full,sem estoque,3340.32
+SKU-00039,Mercado Livre,Inativo,Cross Docking,sem estoque,4388.81
+SKU-00126,Shopee,Inativo,Drop,sem estoque,3800.47
+SKU-00130,Mercado Livre,Inativo,SPX,sem estoque,3773.92
+SKU-00246,Magalu,Inativo,Cross Docking,sem estoque,3445.2
+SKU-00286,Americanas,Inativo,Drop,sem estoque,1239.28
+SKU-00286,Magalu,Inativo,Cross Docking,sem estoque,2149.08
+SKU-00162,Magalu,Inativo,Própria,sem estoque,2308.69
+SKU-00039,Magalu,Inativo,Full,sem estoque,563.02
+SKU-00138,Magalu,Inativo,SPX,sem estoque,2833.24
+SKU-00039,Mercado Livre,Inativo,Full,sem estoque,3324.03
+SKU-00018,Magalu,Inativo,Full,sem estoque,4374.75
+SKU-00130,Americanas,Inativo,Cross Docking,sem estoque,700.02
+SKU-ERRO-2578,Mercado Livre,Inativo,Drop,erro de integração,3457.56
+SKU-ERRO-8635,Shopee,Inativo,Cross Docking,erro de integração,2984.49
+SKU-ERRO-9032,Americanas,Inativo,Cross Docking,erro de integração,2447.83
+SKU-ERRO-9856,Americanas,Inativo,Full,erro de integração,4287.32
+SKU-ERRO-1517,Magalu,Inativo,Full,erro de integração,1735.58
+SKU-ERRO-6153,Magalu,Inativo,Própria,erro de integração,2076.56
+SKU-ERRO-1538,Shopee,Inativo,Drop,erro de integração,2972.46
+SKU-ERRO-5965,Shopee,Inativo,Própria,erro de integração,1946.6
+SKU-ERRO-6119,Magalu,Inativo,Própria,erro de integração,3441.59
+SKU-ERRO-9037,Americanas,Inativo,Drop,erro de integração,2581.36
+SKU-00153,Americanas,Inativo,SPX,categoria inválida,2287.48
+SKU-00135,Amazon,Inativo,Própria,categoria inválida,2665.84
+SKU-00134,Americanas,Inativo,Cross Docking,categoria inválida,3452.62
+SKU-00081,Amazon,Inativo,Full,categoria inválida,141.24
+SKU-00010,Shopee,Inativo,Cross Docking,categoria inválida,1579.71
+SKU-00231,Americanas,Inativo,Full,categoria inválida,3446.9
+SKU-00189,Amazon,Inativo,Própria,categoria inválida,451.61
+SKU-00102,Amazon,Inativo,Própria,categoria inválida,1590.44
+SKU-00192,Shopee,Inativo,SPX,peso incompatível,1067.28
+SKU-00095,Americanas,Inativo,Full,peso incompatível,4098.09
+SKU-00029,Amazon,Inativo,Full,peso incompatível,1529.11
+SKU-00005,Americanas,Inativo,Cross Docking,peso incompatível,182.64
+SKU-00192,Magalu,Inativo,Drop,peso incompatível,2323.7
+SKU-00135,Amazon,Inativo,Full,peso incompatível,3136.37
+SKU-00171,Mercado Livre,Inativo,Cross Docking,peso incompatível,1709.15
+SKU-00128,Amazon,Inativo,Drop,peso incompatível,453.3
+SKU-00155,Mercado Livre,Inativo,SPX,peso incompatível,1521.81
+SKU-00157,Amazon,Inativo,SPX,peso incompatível,2772.5
+SKU-00115,Magalu,Inativo,SPX,peso incompatível,2243.83
+SKU-00259,Mercado Livre,Inativo,Drop,peso incompatível,975.15

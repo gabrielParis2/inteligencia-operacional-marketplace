@@ -1,0 +1,11 @@
+marketplace,peso_maximo,comprimento_maximo,largura_maxima,altura_maxima,aceita_full,aceita_spx
+Mercado Livre,30.0,120.0,80.0,60.0,Sim,Sim
+Shopee,25.0,100.0,70.0,50.0,Não,Sim
+Amazon,22.0,90.0,60.0,45.0,Sim,Não
+Magalu,35.0,130.0,85.0,65.0,Sim,Sim
+Americanas,28.0,110.0,75.0,55.0,Não,Sim
+Mercado Livre,35.0,120.0,80.0,60.0,Sim,Não
+Shopee,0.0,100.0,70.0,50.0,,
+Amazon,22.0,,60.0,45.0,Sim,Não
+Magalu,35.0,130.0,,65.0,Sim,Sim
+Americanas,28.0,110.0,75.0,55.0,Não,Não
