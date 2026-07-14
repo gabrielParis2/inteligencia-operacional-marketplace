@@ -1,0 +1,18 @@
+-- Quantos produtos existem?
+SELECT COUNT(*) FROM produtos p
+
+-- Quantas marcas diferentes existem?
+SELECT COUNT(DISTINCT p.marca) FROM produtos p
+
+-- Quantas categorias diferentes existem?
+SELECT COUNT(DISTINCT p.categoria) FROM produtos p
+
+-- Quantos produtos estão ativos?
+SELECT COUNT(*) qtd, p.status_produto FROM produtos p
+WHERE p.status_produto ='Ativo'
+GROUP BY p.status_produto
+
+-- Quantos estão inativos?
+SELECT COUNT(*) qtd, p.status_produto FROM produtos p
+WHERE p.status_produto ='Inativo'
+GROUP BY p.status_produto
