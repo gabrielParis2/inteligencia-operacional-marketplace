@@ -2,7 +2,7 @@
 /*
 ==========================================================
 Validação do status do anúncio, aqui será feita uma validação única, pois as outras colunas se referem muito mais às regras de negócio, não precisam necessáriamente estarem preenchidas,
-mas o status do anúncio devem ser validados como "Ativo" ou "inativo".
+mas o status do anúncio devem ser validados e não deve ser vazio ou null.
 
 
 Bases utilizadas:
@@ -22,5 +22,3 @@ WHERE
     m.status_anuncio = ''
 OR
     m.status_anuncio IS NULL
-OR  m.status_anuncio <> "Ativo" 
-OR  m.status_anuncio <> "Inativo"
