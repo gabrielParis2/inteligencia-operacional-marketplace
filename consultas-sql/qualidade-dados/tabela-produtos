@@ -1,41 +1,50 @@
-
 /*
-==================================================
+==========================================================
 Objetivo:
-Validar a qualidade dos dados da tabela produtos antes da realização de análises e geração de indicadores.
+Validar a qualidade dos dados da tabela `produtos` antes da realização de consultas e geração de indicadores.
+Com a finalidade de garantir que todas ass queries retornem resultados reais.  
 
 O que será levantado:
 - Campos obrigatórios devem estar preenchidos.
 - Campos numéricos não devem conter valores inválidos.
-- Produtos com inconsistências devem ser identificados para correção.
+- Produtos com inconsistências devem ser identificados para futura correção.
 
-==================================================
+
+Bases utilizadas:
+- base_produtos
+
+Autor: 
+Gabriel Paris
+
+Data:
+21/07/2026
+==========================================================
 */
 
--- Para validar se todos itens tem marca cadastrados
+-- Validação de marca dos itens
 SELECT p.sku, p.marca
 FROM produtos p
 WHERE p.marca IS NULL OR p.marca = ''
 
 
--- Para validar se todos os itens estão categorizados
+-- Categorização dos itens
 SELECT p.sku, p.categoria
 FROM produtos p
 WHERE p.categoria = '' OR p.categoria IS NULL
 
 
--- Para validar se os itens cadastrados possuem o campo nome preenchido
+-- Validação dos itens cadastrados se possuem o campo nome preenchido
 SELECT p.sku, p.nome_produto
 FROM produtos p
 WHERE p.nome_produto ='' OR p.nome_produto IS NULL
 
 
--- Para validar o peso dos itens
+-- Validação de peso para calculos de frete
 SELECT p.sku, p.peso_kg
 FROM produtos p
 WHERE p.peso_kg IS NULL OR p.peso_kg ='' OR p.peso_kg = 0
 
--- Para validar os itens que não possuem algum dos eixos dimensionais considerados muito importantes para o tipo de negócio, por exemplo sem um dos eixo o frete não será cotado corretamente.
+-- Validação dos itens que não possuem algum dos eixos dimensionais considerados muito importantes para o tipo de negócio, por exemplo sem um dos eixo o frete não será cotado corretamente.
 SELECT  p.sku,
         p.nome_produto,
         p.altura,
