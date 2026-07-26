@@ -15,7 +15,7 @@ Data:
 21/07/2026
 ==========================================================
 */
-SELECT  m.sku,
+SELECT m.sku,
         m.status_anuncio
 FROM marketplace m
 WHERE
