@@ -9,7 +9,7 @@ A proposta do projeto é simular situações reais encontradas na operação de 
 # Objetivo
 
 Construir uma solução de Business Intelligence voltada para a operação de Marketplace, permitindo identificar rapidamente problemas que impactam a publicação, logística e disponibilidade de produtos nos canais de venda.
-
+ 
 O projeto busca responder perguntas como:
 
 * Quais produtos deveriam estar ativos, mas estão inativos?
