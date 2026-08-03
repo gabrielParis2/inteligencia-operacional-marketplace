@@ -18,7 +18,10 @@ O projeto busca responder perguntas como:
 * Existem anúncios órfãos (SKUs inexistentes no ERP)?
 * Quais produtos atendem às regras logísticas dos marketplaces?
 
-Esse projeto foi inspirado em problemas encontrados durante minha experiência na operação de Marketplace, onde diversas validações eram realizadas manualmente ou exigiam consultas demoradas em diferentes bases de dados.
+  
+  Esse projeto foi inspirado em problemas encontrados durante minha experiência na operação de Marketplace, onde diversas validações eram realizadas manualmente ou exigiam consultas demoradas em diferentes bases de dados.
+
+
 ---
 
 # Tecnologias Utilizadas
